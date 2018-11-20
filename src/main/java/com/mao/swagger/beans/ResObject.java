@@ -3,6 +3,10 @@ package com.mao.swagger.beans;
 import lombok.Data;
 
 @Data
+/**
+ * @author dgh
+ * @date
+ */
 public class ResObject {
 
     private int code;
