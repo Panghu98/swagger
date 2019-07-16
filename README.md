@@ -6,6 +6,8 @@
 
 ####  使用的时候注意版本问题，整合springSecurity时要开放相关的接口
 ####  也可以直接使用spring-fox中的swagger（建议）
+####  访问[ip]:[port]/swagger-ui.html即可
+* 例如 localhost:8080/swagger-ui.html
 
 可以通过配置文件关闭swagger
 相关的博客地址
